@@ -1,0 +1,15 @@
+The is already a jar file to execute the project. To run it:
+1) Give executable permission to the jar file
+2) Execute the command:
+
+java -jar search.jar
+
+The options of the program are in Portuguese (sorry about it), so a little help:
+1- Search word
+2- Search phrase
+3- Exit
+
+The program get the files from the 'file' directory and feed a data structure that allows quickly retrieve the searched expressions.
+The name of the input files should be inserted into the robots.txt.
+
+Have fun!
